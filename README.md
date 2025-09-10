@@ -67,7 +67,6 @@ The fine-tuning process yielded the following BLEU scores for the different mode
 | **C** | Fine-tuned on Synthetic Data | 0.211 |
 | **D** | Fine-tuned on Combined Data | 0.208 |
 
-*Note: You will need to run the final cell of the notebook to generate the chart and upload it to an image hosting service (like Imgur) to embed it here.*  
 The results indicate that the base model was already quite proficient at German-to-French translation. Fine-tuning on either the benchmark or synthetic data alone provided a marginal improvement. Interestingly, combining the datasets led to a slight decrease in performance, possibly due to inconsistencies introduced by mixing real and synthetic data.
 
 ## **Ethical Considerations**
