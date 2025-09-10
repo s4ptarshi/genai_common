@@ -16,8 +16,7 @@ This project uses Python and several libraries. You will need to have Python ins
 
 ### **Installation**
 
-1. Clone the repo:  
-   git clone \[https://github.com/your\_username\_/your\_repository.git\](https://github.com/your\_username\_/your\_repository.git)
+1. Clone the repo
 
 2. Install the required packages:  
    pip install datasets transformers accelerate evaluate peft bitsandbytes trl groq
