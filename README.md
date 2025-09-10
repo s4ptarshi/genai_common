@@ -1,1 +1,1 @@
-# genai_common
+# Engineering with Generative AI Portfolio exam
