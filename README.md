@@ -4,7 +4,7 @@
 
 This project focuses on fine-tuning a general-purpose Large Language Model (LLM) for the specific task of translating text from German to French. The core of this exploration is to evaluate the effectiveness of using a synthetically generated dataset versus a standard benchmark dataset for the fine-tuning process.  
 The project uses the Qwen2-1.5B model and employs Low-Rank Adaptation (LoRA) for parameter-efficient fine-tuning. The performance of different models is evaluated using the BLEU score.
-This project was done as part of my portfolio exam.
+This project was done as part of my portfolio exam for which I received 1.0 GPA (highest possible in the German grading system).
 
 ## **Getting Started**
 
